@@ -12,4 +12,5 @@ export default defineUserConfig({
 
   // Enable it with pwa
   // shouldPrefetch: false,
+  
 });
